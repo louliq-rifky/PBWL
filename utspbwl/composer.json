@@ -1,0 +1,16 @@
+{
+    "name": "alfan/uts",
+    "description": "UTS PBWL",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Louliq Rifky"
+        }
+    ],
+    "require": {}
+}
